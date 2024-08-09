@@ -1,4 +1,4 @@
-# Projeto: Biblioteca Online - AluraBook-Serve - Back-end
+# Projeto: Biblioteca Online - AluraBook Server - Back-end
 
 Este projeto é o back-end da aplicação de livros com Node.js e Express. Ele fornece as APIs necessárias para o front-end gerenciar livros e favoritos.
 
@@ -85,6 +85,11 @@ app.listen(port, () => {
 - [ ] Implementar testes unitários para as rotas.
 - [ ] Documentar a API com Swagger.
 - [ ] Adicionar suporte para conexão com banco de dados.
+
+## Repositórios Relacionados
+
+- [Front-end](https://github.com/EliasGsN/alurabook)
+- [Back-end](https://github.com/EliasGsN/alurabook-server)
 
 ---
 
@@ -175,4 +180,9 @@ app.listen(port, () => {
 - [ ] Implement unit tests for routes.
 - [ ] Document the API with Swagger.
 - [ ] Add support for database connection.
+
+## Related Repositories
+
+- [Front-end](https://github.com/EliasGsN/alurabook)
+- [Back-end](https://github.com/EliasGsN/alurabook-server)
 ```
